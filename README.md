@@ -9,7 +9,7 @@ You can modify the CVars below in cfg/sourcemod/hudmsgtarget_mandoxx.cfg file
 - m_dxonecommandpround = "Allows you to use the command only once per round [Enable = 1 // Disable = 0]");
 - m_dxAllPlayers = "allows all players to use the command [Enable = 1 // Disable = 0]");
 
-Commands:
+# Commands:
 
 - sm_msg "target" "msg"
 - sm_message "target" "msg"
